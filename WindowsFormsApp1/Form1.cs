@@ -60,5 +60,16 @@ namespace WindowsFormsApp1
             textBox2.Text = "";
             textBox3.Text = S.ToString();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            double x = Convert.ToDouble(textBox1.Text);
+            label4.Text = "Кв. корень из " + x.ToString();
+            double S = Math.Sqrt(x);
+            textBox1.Text = "";
+            textBox2.Text = "";
+            textBox3.Text = S.ToString();
+
+        }
     }
 }
