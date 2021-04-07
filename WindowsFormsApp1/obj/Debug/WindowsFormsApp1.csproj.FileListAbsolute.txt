@@ -1,0 +1,9 @@
+D:\kr\Kontrol_work\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\kr\Kontrol_work\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\kr\Kontrol_work\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\kr\Kontrol_work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\kr\Kontrol_work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\kr\Kontrol_work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\kr\Kontrol_work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\kr\Kontrol_work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\kr\Kontrol_work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
